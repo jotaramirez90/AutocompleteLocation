@@ -7,9 +7,9 @@
     <attr name="hint_text"
         format="string"/>
     <attr name="hint_text_color"
-        format="integer"/>
+        format="color"/>
     <attr name="text_color"
-        format="integer"/>
+        format="color"/>
   </declare-styleable>
 
 </resources>
