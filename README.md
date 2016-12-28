@@ -13,7 +13,7 @@ https://developers.google.com/places/android-api/autocomplete
 **Add the dependencies to your gradle file:**
 ```javascript
 	dependencies {
-    	compile ''
+    	compile 'com.jota.autocompletelocation:autocomplete-location:0.9.0'
 	}
 ```
 **Get a Google Maps API Key and enabled the Google Places API for Android** *(Add your API Key in AndroidManifest)*:
