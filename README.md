@@ -1,6 +1,8 @@
 # AutocompleteLocation
 Cute library to implement PlaceAutocomplete in Android
 
+![sample](https://github.com/jotaramirez90/AutocompleteLocation/blob/master/art/init.png) ![sample](https://github.com/jotaramirez90/AutocompleteLocation/blob/master/art/autocomplete.png) ![sample](https://github.com/jotaramirez90/AutocompleteLocation/blob/master/art/place.png)
+
 #Native version
 Maybe it would be useful to take a look into the new official approach
 https://developers.google.com/places/android-api/autocomplete
