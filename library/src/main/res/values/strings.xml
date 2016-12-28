@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">AutocompleteLocation</string>
+
+  <string name="default_hint_text">Where are you going?</string>
 </resources>

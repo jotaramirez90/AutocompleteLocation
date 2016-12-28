@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <integer name="default_max_lines">1</integer>
+
+  <dimen name="default_padding">12dp</dimen>
+</resources>

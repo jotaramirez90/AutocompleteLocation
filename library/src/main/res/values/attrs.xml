@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="AutoCompleteLocation">
+    <attr name="background_layout"
+        format="integer"/>
+    <attr name="hint_text"
+        format="string"/>
+    <attr name="hint_text_color"
+        format="integer"/>
+    <attr name="text_color"
+        format="integer"/>
+  </declare-styleable>
+
+</resources>

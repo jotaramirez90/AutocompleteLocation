@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="default_text">#212121</color>
+  <color name="default_hint_text">#757575</color>
+</resources>
