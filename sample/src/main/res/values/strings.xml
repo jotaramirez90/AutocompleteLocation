@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">AutocompleteLocation</string>
+  <string name="title_activity_main">Map</string>
+</resources>
