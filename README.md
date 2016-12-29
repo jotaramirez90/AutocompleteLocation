@@ -11,7 +11,7 @@ https://developers.google.com/places/android-api/autocomplete
 
 # Usage
 **Add the dependencies to your gradle file:**
-```javascript
+```
 	dependencies {
     	compile 'com.jota.autocompletelocation:autocomplete-location:0.9.0'
 	}
@@ -33,7 +33,7 @@ https://developers.google.com/places/android-api/autocomplete
       />
 ```
 **Set the listeners:**
-```java
+```
 public class MainActivity extends FragmentActivity
     implements AutoCompleteLocation.AutoCompleteLocationListener {
 
@@ -46,7 +46,7 @@ public class MainActivity extends FragmentActivity
 }
 ```
 **Get the place:**
-```java
+```
   @Override public void onItemSelected(Place selectedPlace) {
     mMap.addMarker(new MarkerOptions().position(latLng));
     mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 16));
