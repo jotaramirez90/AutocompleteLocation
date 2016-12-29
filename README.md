@@ -77,6 +77,19 @@ Pull requests are more than welcome, help me and others improve this awesome lib
 
 The code is based in the Place Autocomplete original concept.
 
+
+# Developed By
+
+* Jota Ramirez - <jotaramirez90@gmail.com>
+
+<a href="https://twitter.com/JotaRamirez90">
+  <img alt="Follow me on Twitter" src="https://image.freepik.com/iconos-gratis/twitter-logo_318-40209.jpg" height="60" width="60"/>
+</a>
+<a href="https://es.linkedin.com/in/josejuanramirez">
+  <img alt="Add me to Linkedin" src="https://image.freepik.com/iconos-gratis/boton-del-logotipo-linkedin_318-84979.png" height="60" width="60"/>
+</a>
+
+
 # License
 	Copyright 2016 Jota Ramirez
 
